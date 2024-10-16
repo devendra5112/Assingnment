@@ -1,0 +1,11 @@
+package FourAssigment;
+
+public class Example1 {
+public static void main(String[] args) {
+	double sum=23;
+	double n=7;
+	double avg;
+	avg=sum/n;
+	System.out.println("Average :"+avg);
+}
+}
